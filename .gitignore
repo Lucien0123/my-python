@@ -37,6 +37,13 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# IntelliJ project files
+.idea
+*.iml
+out
+gen### Java template
+*.class
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
